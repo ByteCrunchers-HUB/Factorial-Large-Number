@@ -41,6 +41,9 @@ This function handles multiplication of the entire number (stored in `vec`) with
 Because factorial values grow extremely fast, even `long long` can’t handle values above 20!. A `vector<int>` lets us simulate multiplication manually by keeping every digit separately. It’s like writing the number on paper and doing the multiplication ourselves.
 
 ---------------------------------------------------------------------------
+##SCREENSHOT
+<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/db2217cd-610c-48ba-a0e7-806d13a54092" />
+
 
 ## How to Run
 
